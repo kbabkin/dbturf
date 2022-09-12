@@ -1,0 +1,16 @@
+{
+    "#defaults": {
+        "updated_by": "DbTurf",
+        "updated_at": "${Timestamp}"
+    },
+    "TripleOne": {
+        "cu_id": 111,
+        "name": "TripleOne",
+        "country": "HND"
+    },
+    "QuadrupleOne": {
+        "cu_id": 1111,
+        "name": "QuadrupleOne",
+        "country": "ECU"
+    }
+}

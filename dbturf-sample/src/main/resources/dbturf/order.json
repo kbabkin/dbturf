@@ -1,0 +1,12 @@
+{
+  "#defaults": {
+    "updated_by": "DbTurf",
+    "updated_at": "${Timestamp}"
+  },
+  "Delivery": {
+    "customer": "TripleOne",
+    "product": "IBM",
+    "delivery_type": "Delivery",
+    "amount": 100
+  }
+}

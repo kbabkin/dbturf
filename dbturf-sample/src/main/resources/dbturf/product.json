@@ -1,0 +1,21 @@
+{
+  "#defaults": {
+    "updated_by": "DbTurf",
+    "updated_at": "${Timestamp}",
+    "xrefs": {
+      "updated_by": "DbTurf",
+      "updated_at": "${Timestamp}"
+    }
+  },
+  "IBM": {
+    "pr_id": 1234,
+    "name": "IBM",
+    "description": "IBM Corp",
+    "xrefs": [
+      {
+        "xref_type": "RIC",
+        "xref_value": "IBM"
+      }
+    ]
+  }
+}

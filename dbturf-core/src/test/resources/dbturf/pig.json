@@ -1,0 +1,19 @@
+{
+  "#defaults": {
+    "updated_by": "DbTurf",
+    "xrefs": {
+      "updated_by": "DbTurf"
+    }
+  },
+  "Peppa": {
+    "pig_id": 234,
+    "name": "Peppa",
+    "description": "Peppa Pig",
+    "xrefs": [
+      {
+        "xref_type": "School",
+        "xref_value": "1-A"
+      }
+    ]
+  }
+}
